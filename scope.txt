@@ -1,0 +1,29 @@
+Distributions:
+    Uniform
+    Normal
+    Dirichlet
+    Gaussian
+    Poisson
+    Beta
+
+Sample:
+    Uniform     M
+    Normal      M
+    Dirichlet   M
+    Gaussian    S
+    Poisson     S
+    Beta        S
+
+Observe:
+    how to implement
+        per distribution
+    conditioning??
+
+Algorithms:
+    MH-MCMC
+    GMM
+    Likelihood Weighting
+    SGLD*
+
+Graphing tools:
+    *
